@@ -1,0 +1,1183 @@
+Age,WBC_Count,Protein_Level,Glucose_Level,Pathogen_Present,Outcome,Hemoglobin,WBC_Blood_Count,Platelets,CRP_Level,Risk_Level,CRP_Level_Below_Detection,Age_imputed,Age_Group,Is_Minor,Gender_Female,Gender_Male,Gender_Unknown,Diagnosis_Bacterial,Diagnosis_Unknown,Diagnosis_Viral
+101,8624,16,83,False,Recovered,15,7269.0,160949.0,71,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+78,22623,200,41,False,Recovered,18,6532.0,371741.0,41,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+8,12908,39,3,False,Recovered,16,7417.0,180403.0,22,Moderate Risk,False,False,Child (5-12),True,True,False,False,False,True,False
+104,15072,58,36,True,Recovered,7,13792.0,132254.0,48,Moderate Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+38,18623,152,34,True,Recovered,5,17054.0,134941.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+42,16688,166,27,True,Recovered,5,15880.0,116419.0,35,High Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+42,19727,171,26,True,Recovered,7,14439.0,140626.0,36,High Risk,False,True,Adult (25-64),False,False,True,False,True,False,False
+42,16576,114,1,True,Recovered,5,12982.0,118475.0,25,High Risk,False,True,Adult (25-64),False,False,True,False,True,False,False
+42,5848,45,54,False,Recovered,15,7865.0,353841.0,2,Low Risk,False,True,Adult (25-64),False,False,True,False,False,False,True
+42,6235,45,50,False,Recovered,16,6739.0,186656.0,0,Low Risk,True,True,Adult (25-64),False,False,True,False,False,False,True
+42,9369,27,68,False,Deceased,14,7615.0,263696.0,4,Low Risk,False,True,Adult (25-64),False,False,True,False,False,False,True
+42,15895,149,24,True,Recovered,8,18178.0,113376.0,31,High Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+30,13852,142,8,True,Recovered,2,13345.0,142602.0,38,High Risk,False,False,Adult (25-64),False,False,False,True,True,False,False
+59,20182,243,18,False,Recovered,15,6716.0,355439.0,48,Moderate Risk,False,False,Adult (25-64),False,False,False,True,False,False,True
+70,17538,106,15,True,Recovered,3,17728.0,116952.0,32,High Risk,False,False,Older adult (65+),False,False,False,True,True,False,False
+38,15531,185,6,True,Recovered,6,14610.0,141707.0,23,High Risk,False,False,Adult (25-64),False,False,False,True,True,False,False
+51,15515,200,23,True,Recovered,7,12935.0,145454.0,38,High Risk,False,False,Adult (25-64),False,False,False,True,True,False,False
+48,5779,20,67,False,Recovered,14,9935.0,299253.0,5,Low Risk,False,False,Adult (25-64),False,False,False,True,False,False,True
+18,4665,32,70,False,Recovered,13,8445.0,167048.0,5,Low Risk,False,False,Young adult (18-24),False,False,False,True,False,False,True
+41,6641,43,50,False,Recovered,12,5065.0,254239.0,0,Low Risk,True,False,Adult (25-64),False,False,False,True,False,False,True
+24,12338,127,27,True,Recovered,8,19046.0,140563.0,41,High Risk,False,False,Young adult (18-24),False,False,False,True,True,False,False
+0,21062,248,69,False,Deceased,18,5676.0,221767.0,8,High Risk,False,False,Infant (<1),True,False,True,False,True,False,False
+19,12282,26,66,False,Recovered,15,8846.0,322288.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+28,12282,51,65,False,Recovered,14,9835.0,223106.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+69,12282,112,11,True,Recovered,5,18431.0,124984.0,24,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,12282,75,116,True,Recovered,1,19164.0,135768.0,17,High Risk,False,True,Adult (25-64),False,True,False,False,False,True,False
+48,12282,90,59,True,Recovered,4,12438.0,108417.0,92,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+68,12282,124,1,True,Recovered,4,17057.0,147432.0,21,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+59,12282,144,20,True,Recovered,1,16682.0,127225.0,33,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+5,12282,141,84,True,Recovered,6,19735.0,117324.0,33,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+67,15493,120,18,True,Recovered,5,12249.0,131707.0,37,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+41,18465,109,1,True,Recovered,7,14668.0,109348.0,46,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+80,15043,109,38,False,Recovered,12,7572.0,378639.0,83,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+38,17081,109,39,True,Recovered,4,14226.0,123866.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+53,18414,109,16,True,Recovered,3,17088.0,106617.0,22,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+109,21021,109,123,True,Recovered,8,18191.0,119441.0,20,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+47,4640,109,53,False,Recovered,16,8789.0,393782.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+32,6723,109,62,False,Recovered,15,8143.0,257882.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+46,4478,109,61,False,Recovered,17,5525.0,252603.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+23,19408,109,128,False,Recovered,16,5334.0,230595.0,39,Moderate Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+22,4133,109,52,False,Recovered,15,6757.0,389430.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+34,7157,43,53,False,Recovered,14,7919.0,198401.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+48,5111,59,53,False,Deceased,17,7194.0,324930.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+82,23229,231,53,True,Recovered,2,12719.0,112852.0,54,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+45,6614,51,53,False,Recovered,15,8286.0,379383.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+0,22223,226,53,False,Recovered,13,7451.0,198849.0,4,High Risk,False,False,Infant (<1),True,True,False,False,False,True,False
+81,6974,253,53,False,Recovered,14,6927.0,217312.0,39,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+38,6244,27,53,False,Recovered,18,4634.0,163792.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+56,16073,186,53,True,Recovered,7,16834.0,106984.0,45,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+23,6932,40,60,False,Recovered,15,6744.0,257403.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+31,7753,59,55,False,Recovered,14,7720.0,164543.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+76,17951,185,8,True,Recovered,5,17146.0,110676.0,33,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+36,3772,176,144,True,Recovered,7,13556.0,110637.0,93,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+83,21984,120,60,True,Recovered,6,16556.0,126698.0,89,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+77,18947,174,30,True,Recovered,7,15358.0,130874.0,46,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+51,13453,150,28,True,Recovered,1,13434.0,104071.0,41,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+38,16730,172,30,True,Recovered,6,14383.0,125253.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+16,2756,82,40,False,Recovered,14,7940.0,281248.0,94,Moderate Risk,False,False,Adolescent (13-17),True,True,False,False,False,True,False
+66,12323,193,10,True,Recovered,4,17746.0,147396.0,29,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+36,4016,50,51,False,Recovered,17,7954.0,172901.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+35,14880,175,20,True,Recovered,7,12304.0,129274.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+44,18551,139,8,True,Recovered,5,13764.0,124505.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+60,18579,134,2,True,Recovered,6,12793.0,115019.0,33,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+29,6849,286,125,True,Recovered,4,12557.0,106265.0,72,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+25,6287,33,65,False,Recovered,18,4850.0,313157.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+51,16180,91,23,False,Recovered,16,9630.0,177335.0,32,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+39,5451,39,61,False,Recovered,14,8287.0,310024.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+22,6624,30,69,False,Recovered,16,5293.0,217396.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+23,4615,28,50,False,Recovered,16,8051.0,173397.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,True,False
+37,19900,179,5,True,Recovered,3,14882.0,116907.0,33,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+62,16822,176,39,True,Recovered,4,15488.0,117660.0,30,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+52,18294,167,6,True,Recovered,2,12345.0,100983.0,28,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+54,11458,170,118,True,Recovered,5,14049.0,119245.0,31,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+35,5511,53,53,False,Recovered,13,4251.0,209147.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+41,9008,48,67,False,Recovered,15,8337.0,329775.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+19,8545,49,54,False,Recovered,16,6111.0,236706.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+27,5919,37,69,False,Recovered,12,8978.0,318011.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+73,11680,164,129,False,Recovered,16,4802.0,218759.0,13,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+97,18288,106,98,False,Recovered,13,5678.0,250187.0,73,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+29,9998,22,55,False,Recovered,13,8981.0,261074.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+47,17440,103,34,True,Recovered,3,18564.0,107190.0,41,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+47,8707,113,121,False,Recovered,12,7761.0,393757.0,22,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+71,18437,168,11,True,Recovered,2,16454.0,142375.0,30,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+66,11719,211,57,True,Deceased,4,13100.0,103693.0,12,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+61,7024,75,133,False,Recovered,12,6866.0,205569.0,54,Moderate Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+38,8922,32,51,False,Recovered,14,5704.0,360467.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+64,14403,126,28,True,Recovered,6,16252.0,144935.0,21,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,9118,51,51,False,Recovered,18,4963.0,151264.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+18,8079,37,63,False,Recovered,12,8992.0,211410.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+32,18802,177,4,True,Recovered,3,17281.0,140336.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+26,4447,53,70,False,Recovered,15,4308.0,219208.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+37,14319,166,3,True,Recovered,8,17868.0,126372.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+51,17235,200,18,True,Recovered,4,13560.0,140751.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+46,4226,26,68,False,Recovered,13,7968.0,296181.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+64,12224,133,20,True,Deceased,3,14416.0,143453.0,44,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+67,12227,141,18,True,Recovered,4,12057.0,139635.0,46,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+50,17484,271,30,True,Recovered,7,13033.0,127084.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+66,14848,151,39,True,Recovered,7,13119.0,122027.0,29,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+32,9055,52,63,False,Deceased,18,5519.0,344066.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+21,7241,33,59,False,Recovered,14,9230.0,188040.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+36,6013,41,53,False,Recovered,12,9145.0,305706.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+38,15275,130,15,True,Recovered,12,17724.0,131441.0,48,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+42,19807,275,143,False,Recovered,12,9001.0,339157.0,79,Moderate Risk,False,True,Adult (25-64),False,True,False,False,False,True,False
+54,18163,252,65,True,Recovered,12,19359.0,104247.0,61,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+79,14247,137,39,True,Recovered,12,14252.0,129664.0,69,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+42,7167,50,58,False,Recovered,12,4415.0,263790.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+73,4292,295,119,True,Deceased,12,12235.0,114512.0,33,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+36,8755,26,63,False,Recovered,12,7814.0,185795.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+1,22908,128,104,False,Recovered,12,9840.0,162729.0,15,Moderate Risk,False,False,Young Child (1-4),True,False,True,False,True,False,False
+34,5789,22,50,False,Deceased,12,6173.0,301775.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,12734,199,10,True,Recovered,12,17522.0,128369.0,31,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+32,4490,33,68,False,Recovered,12,5347.0,254151.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+58,13227,148,22,True,Recovered,12,18014.0,133183.0,48,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+75,9955,194,53,True,Recovered,12,17943.0,148445.0,96,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+41,19235,159,25,True,Recovered,12,19674.0,120284.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+83,22761,202,147,False,Recovered,12,5239.0,173106.0,97,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+75,17687,126,1,True,Recovered,12,17523.0,133654.0,25,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+46,4339,30,70,False,Recovered,12,9573.0,223739.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+56,17992,183,23,True,Recovered,12,12083.0,126264.0,47,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,18655,143,26,True,Recovered,8,19632.0,141216.0,34,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+72,18080,173,129,True,Deceased,6,16455.0,117789.0,97,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+42,8375,51,30,True,Deceased,4,17164.0,117770.0,21,Moderate Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+19,6842,28,69,False,Recovered,12,9915.0,345268.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+32,8307,56,50,False,Deceased,15,8223.0,227237.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+25,4070,48,65,False,Recovered,17,7344.0,275445.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+32,14480,133,27,True,Recovered,3,15454.0,119486.0,21,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+15,17292,279,39,True,Deceased,5,17299.0,118515.0,4,Moderate Risk,False,False,Adolescent (13-17),True,False,True,False,False,False,True
+68,21495,273,53,True,Recovered,2,14477.0,124488.0,12,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+32,6392,58,50,False,Recovered,14,7342.0,181953.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+62,16637,158,37,True,Deceased,5,19769.0,139077.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+47,16361,169,1,True,Recovered,3,16224.0,126188.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+4,23462,243,127,True,Recovered,3,15162.0,108141.0,30,Moderate Risk,False,False,Young Child (1-4),True,True,False,False,False,True,False
+49,9821,50,54,False,Recovered,15,6556.0,389300.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+76,4882,176,72,False,Recovered,14,6904.0,346868.0,28,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+19,6859,35,55,False,Recovered,14,7026.0,195332.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+25,19664,15,108,False,Recovered,12,5603.0,398904.0,64,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+20,5958,57,53,False,Recovered,15,5019.0,361228.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+19,9993,55,70,False,Recovered,14,6181.0,317264.0,2,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+34,8531,42,56,False,Recovered,16,9831.5,191570.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+37,13258,137,27,True,Recovered,2,9831.5,109683.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+30,12380,143,27,True,Recovered,2,9831.5,135712.0,47,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+21,4777,25,69,False,Recovered,15,9831.5,205391.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+42,17320,277,106,False,Recovered,12,9831.5,311809.0,45,Low Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+49,18862,130,3,True,Deceased,1,9831.5,130423.0,27,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+37,9709,42,64,False,Recovered,12,9831.5,155502.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+30,4635,44,56,False,Recovered,15,9831.5,264900.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+37,13582,134,16,True,Recovered,1,9831.5,131092.0,48,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,9733,49,68,False,Deceased,14,9831.5,360027.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+25,17117,154,26,True,Recovered,5,18602.0,133141.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+53,15703,115,4,True,Deceased,6,17598.0,141580.0,38,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+45,12707,160,27,True,Recovered,2,19103.0,111929.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+80,8248,211,15,False,Recovered,12,7868.0,366448.0,4,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+22,8151,53,58,False,Recovered,15,5526.0,346888.0,5,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+23,9451,22,65,False,Recovered,18,9212.0,332880.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+23,12260,132,28,True,Deceased,5,13297.0,124940.0,44,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+48,6281,47,53,False,Recovered,12,8289.0,213806.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+29,4768,22,62,False,Deceased,15,6732.0,219965.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+30,8706,21,52,False,Recovered,15,8393.0,219152.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+30,15232,162,16,True,Deceased,7,12862.0,110812.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+46,6892,38,58,False,Recovered,12,9338.0,185947.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+53,4759,24,26,True,Recovered,7,17688.0,117912.0,54,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+43,4245,24,56,False,Recovered,16,6176.0,190555.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+27,12740,157,18,True,Recovered,7,18898.0,121131.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+20,15026,156,11,True,Recovered,4,12788.0,102643.0,30,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+23,13826,102,19,True,Recovered,5,12476.0,119768.0,45,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+34,13790,164,25,True,Recovered,6,18268.0,121770.0,49,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+34,17123,189,11,False,Recovered,15,9151.0,154884.0,25,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+46,16428,141,8,True,Recovered,5,15890.0,125267.0,35,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+27,4934,32,57,False,Recovered,13,7291.0,285483.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+65,12455,132,22,True,Recovered,1,16910.0,101596.0,26,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+33,9091,59,54,False,Recovered,16,7665.0,366280.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+54,9564,90,123,False,Recovered,16,4136.0,257863.0,34,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+39,18707,61,13,True,Recovered,1,15389.0,159797.5,13,High Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+59,14098,126,27,True,Recovered,7,19970.0,159797.5,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,7415,56,65,False,Recovered,17,5554.0,159797.5,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+19,5320,33,54,False,Deceased,18,8798.0,159797.5,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+38,8733,39,50,False,Recovered,12,5787.0,159797.5,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,5323,41,54,False,Recovered,14,8106.0,159797.5,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+42,6784,206,137,True,Recovered,1,12550.0,159797.5,66,Low Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+60,12083,105,16,True,Recovered,4,13696.0,159797.5,47,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+41,4360,28,56,False,Deceased,18,5263.0,159797.5,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+21,15482,138,32,True,Recovered,3,14296.0,159797.5,43,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+75,13741,109,10,True,Recovered,5,19680.0,159797.5,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+1,18357,66,73,True,Recovered,2,13845.0,159797.5,6,High Risk,False,False,Young Child (1-4),True,True,False,False,False,True,False
+78,18146,199,34,True,Deceased,5,17916.0,144642.0,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+91,10274,19,139,False,Recovered,15,4209.0,315889.0,25,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+22,13806,174,35,True,Recovered,5,19108.0,140256.0,25,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+38,4701,57,61,False,Recovered,16,4382.0,373285.0,25,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,5253,179,133,True,Recovered,8,18656.0,134681.0,25,Moderate Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+9,21020,67,120,False,Recovered,15,4148.0,162035.0,25,Low Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+49,16596,194,17,True,Recovered,4,19411.0,113333.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+48,9455,58,50,False,Recovered,16,9323.0,215261.0,25,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+50,9075,57,58,False,Recovered,16,4829.0,358993.0,25,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+69,18078,92,22,True,Recovered,2,14840.0,132130.0,25,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+21,13783,162,21,True,Recovered,8,13177.0,134527.0,25,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+51,12472,189,29,True,Recovered,4,17603.0,119511.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+61,12971,136,31,True,Recovered,1,19396.0,147936.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+64,18817,138,19,True,Recovered,8,16913.0,105150.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+63,2421,22,146,True,Recovered,6,18280.0,147695.0,83,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+41,13566,175,3,True,Recovered,2,13815.0,136506.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,19994,199,15,True,Recovered,1,16937.0,109390.0,21,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+51,13658,140,22,True,Recovered,8,13233.0,148183.0,30,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+41,4732,23,50,False,Recovered,15,8446.0,335793.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+51,12549,187,38,True,Recovered,3,19846.0,139371.0,22,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+64,13149,200,16,True,Recovered,7,19349.0,116176.0,48,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+20,15546,170,1,True,Recovered,5,12158.0,131957.0,37,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+0,2021,189,117,False,Recovered,16,4763.0,241245.0,11,Low Risk,False,False,Infant (<1),True,True,False,False,False,True,False
+29,6971,53,59,False,Recovered,14,5453.0,306052.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+45,9566,33,69,False,Recovered,17,9434.0,168491.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+44,6023,23,70,False,Recovered,14,8580.0,221142.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,8777,41,67,False,Recovered,14,7400.0,305005.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+46,4383,53,53,False,Recovered,16,6063.0,338719.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+96,23564,111,70,False,Recovered,17,5095.0,176831.0,87,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+47,5385,147,31,False,Recovered,15,8817.0,153020.0,96,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+41,10183,193,22,False,Recovered,16,8030.0,163082.0,20,Moderate Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+42,3349,241,102,False,Recovered,12,4938.0,232908.0,44,Low Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+103,2017,71,28,True,Recovered,5,13853.0,129573.0,42,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+21,4881,34,56,False,Recovered,16,6519.0,316744.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+74,24475,11,122,False,Recovered,16,8643.0,306978.0,84,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+66,12588,142,37,True,Recovered,4,18796.0,113386.0,33,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+33,21640,90,99,False,Recovered,17,8206.0,329318.0,85,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+38,9535,24,59,False,Recovered,14,4042.0,361118.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+8,14722,136,28,True,Recovered,5,17311.0,124659.0,60,High Risk,False,False,Child (5-12),True,True,False,False,False,True,False
+43,6852,41,54,False,Recovered,15,7236.0,240669.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+45,4117,48,60,False,Recovered,17,7370.0,287498.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,14705,121,22,False,Recovered,15,5877.0,222606.0,33,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+17,8105,200,45,False,Recovered,18,5212.0,194761.0,74,Low Risk,False,False,Adolescent (13-17),True,False,True,False,False,False,True
+4,17872,290,46,True,Deceased,2,19193.0,124988.0,35,High Risk,False,False,Young Child (1-4),True,True,False,False,False,True,False
+43,19589,240,133,False,Recovered,12,4928.0,176309.0,45,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+10,24247,186,143,True,Recovered,1,18192.0,124858.0,14,Low Risk,False,False,Child (5-12),True,False,True,False,True,False,False
+50,17921,127,16,True,Recovered,3,18104.0,120974.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+56,14838,141,22,True,Recovered,6,13416.0,113432.0,47,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+79,16315,154,24,True,Recovered,2,19929.0,123931.0,45,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+40,7141,53,70,False,Recovered,12,5011.0,276626.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,6503,56,67,False,Recovered,13,9333.0,233959.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+1,22310,283,79,True,Recovered,6,19988.0,130266.0,8,Low Risk,False,False,Young Child (1-4),True,False,True,False,False,False,True
+42,5888,28,57,False,Recovered,15,7147.0,386949.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+91,12651,150,40,False,Recovered,17,8064.0,353655.0,97,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+24,14053,165,13,True,Recovered,1,18065.0,114789.0,26,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+42,10266,16,31,True,Recovered,2,15981.0,111729.0,79,High Risk,False,True,Adult (25-64),False,False,True,False,False,True,False
+75,16009,118,12,True,Recovered,5,17005.0,146630.0,22,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+47,16243,25,120,True,Recovered,6,12411.0,124188.0,78,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+40,17257,161,30,True,Deceased,3,18505.0,102982.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+26,6501,49,59,False,Deceased,15,5834.0,345904.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+25,19291,159,22,True,Recovered,6,18499.0,148676.0,23,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+49,7917,31,69,False,Deceased,12,4848.0,188577.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+68,10309,108,43,True,Recovered,3,14703.0,134968.0,33,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+29,9390,43,66,False,Recovered,16,9490.0,320595.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+37,9347,38,55,False,Recovered,15,7577.0,268662.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+30,5141,22,56,False,Recovered,15,9326.0,344705.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,4909,59,58,False,Recovered,16,6017.0,215130.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+79,13380,184,29,False,Recovered,14,5465.0,349518.0,64,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+24,6634,39,58,False,Recovered,14,5152.0,391929.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+57,18315,157,19,True,Deceased,8,14357.0,124005.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+18,11422,7,20,True,Recovered,5,12709.0,146531.0,96,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,True,False
+73,13749,144,34,True,Recovered,8,17639.0,103762.0,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+30,8715,47,58,False,Recovered,14,8571.0,389439.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+55,14059,198,31,True,Recovered,2,12743.0,126142.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+39,13642,184,21,True,Recovered,1,13299.0,105460.0,45,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+45,8972,31,69,False,Recovered,14,6606.0,362877.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+72,19493,191,12,True,Recovered,2,16815.0,142792.0,26,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+74,15719,193,7,True,Recovered,3,14750.0,109978.0,45,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+17,23345,171,108,True,Recovered,4,14981.0,142457.0,77,Low Risk,False,False,Adolescent (13-17),True,False,True,False,False,False,True
+38,6351,40,59,False,Recovered,16,8919.0,369368.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+46,18982,121,28,True,Recovered,4,17469.0,133068.0,37,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+25,7437,54,56,False,Recovered,13,4049.0,232222.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+18,9672,27,52,False,Deceased,17,6899.0,386672.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+92,5774,129,45,True,Recovered,6,19955.0,133652.0,55,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+73,2093,195,102,True,Recovered,3,17293.0,111654.0,63,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+31,18466,125,106,True,Recovered,7,15813.0,138472.0,3,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+4,12408,270,88,True,Recovered,2,19340.0,122851.0,45,High Risk,False,False,Young Child (1-4),True,True,False,False,True,False,False
+18,6927,49,65,False,Recovered,14,4916.0,359111.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+46,18228,114,11,True,Deceased,3,17167.0,103336.0,46,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+32,9667,25,68,False,Recovered,16,5304.0,320439.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+59,13849,173,2,True,Recovered,8,14999.0,102293.0,35,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+84,19271,119,71,True,Recovered,7,12231.0,115336.0,57,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+41,7394,50,69,False,Recovered,15,6302.0,340882.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+49,13323,115,3,True,Recovered,4,15772.0,114201.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+32,9276,35,65,False,Recovered,13,7718.0,210844.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+51,22537,183,101,False,Recovered,14,5802.0,348713.0,89,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+47,13450,122,29,True,Recovered,7,19646.0,133117.0,34,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+49,8442,25,62,False,Recovered,16,9023.0,346369.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,15020,158,27,True,Recovered,7,14915.0,128707.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+40,5503,43,64,False,Recovered,17,5776.0,293405.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+50,12531,146,15,True,Deceased,7,15516.0,101150.0,41,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+80,13728,158,39,True,Recovered,6,18623.0,113007.0,48,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+64,14855,190,96,True,Recovered,2,14474.0,111172.0,15,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+43,6674,35,59,False,Recovered,15,7699.0,177803.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+26,8795,22,62,False,Recovered,12,4746.0,337952.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+40,7077,37,57,True,Recovered,4,17987.0,110180.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+30,17745,150,31,True,Recovered,3,14561.0,115822.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+28,13863,138,13,True,Recovered,2,17430.0,110880.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+34,6338,28,56,False,Recovered,12,6755.0,202529.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+47,13431,122,10,True,Recovered,1,13183.0,120360.0,29,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+41,17123,153,6,True,Recovered,2,18161.0,113195.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+44,5476,36,66,False,Recovered,17,9605.0,220442.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+105,22853,197,89,False,Deceased,12,7950.0,305095.0,4,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+79,18794,116,1,True,Deceased,8,19490.0,142868.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+96,15409,208,89,True,Recovered,1,18817.0,134635.0,85,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+32,19088,134,19,True,Recovered,8,15068.0,141123.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+72,13017,169,30,True,Recovered,6,16247.0,134050.0,33,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,14663,95,49,False,Recovered,15,9847.0,198598.0,5,High Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+67,20658,186,147,True,Recovered,7,13871.0,125018.0,61,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+21,6867,35,64,False,Recovered,14,5426.0,391315.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+43,9285,49,65,False,Deceased,13,8517.0,181736.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+76,12841,188,16,True,Recovered,4,19066.0,100843.0,29,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+83,2848,152,101,False,Recovered,15,7260.0,307523.0,23,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+34,7636,252,54,True,Recovered,8,19316.0,142833.0,86,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+36,17623,141,5,True,Recovered,4,18920.0,116316.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+76,12251,155,16,True,Recovered,2,14387.0,135095.0,21,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+33,16065,147,32,True,Recovered,8,19226.0,113891.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+27,23695,168,119,True,Recovered,8,18521.0,112958.0,7,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+44,6207,57,54,False,Recovered,13,5578.0,200918.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+18,8521,290,144,False,Recovered,16,5076.0,250658.0,96,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+110,6403,266,58,False,Recovered,16,7347.0,162062.0,75,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+49,5932,22,53,False,Recovered,12,8408.0,354122.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+44,5150,31,62,False,Recovered,13,5002.0,307153.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+73,2871,9,79,True,Recovered,7,16599.0,121393.0,40,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+61,18753,153,19,True,Recovered,6,12121.0,131004.0,42,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+77,24761,201,0,False,Recovered,15,6403.0,231861.0,67,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+42,8393,154,96,False,Deceased,16,8334.0,298827.0,49,High Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+43,8801,202,5,False,Recovered,15,8463.0,387015.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+31,7249,47,54,False,Recovered,15,7481.0,370183.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+43,17299,153,27,True,Recovered,5,18701.0,139970.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+46,9547,46,66,False,Recovered,14,5808.0,174735.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+98,7336,160,16,False,Recovered,14,6637.0,169400.0,38,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+25,5351,51,69,False,Recovered,14,5775.0,280413.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+79,12394,120,24,True,Recovered,7,12302.0,104417.0,24,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+54,13041,144,31,True,Recovered,2,16226.0,139640.0,42,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+59,17106,20,17,True,Recovered,2,14947.0,132440.0,22,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+36,7776,29,60,False,Recovered,18,9817.0,202900.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+23,4573,43,62,False,Deceased,14,9687.0,375243.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+79,8554,241,100,True,Recovered,7,15059.0,126637.0,92,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+72,13738,98,36,False,Recovered,16,6352.0,218674.0,20,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+39,19383,117,18,True,Recovered,3,16934.0,139743.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+44,7298,31,70,False,Recovered,15,4398.0,246331.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+68,6242,220,14,True,Recovered,2,19626.0,149438.0,1,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+21,12729,108,38,True,Recovered,1,16495.0,101537.0,45,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+54,19917,161,19,True,Recovered,8,17569.0,137588.0,35,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+51,17111,140,26,True,Recovered,6,12080.0,121973.0,41,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+68,18012,172,12,True,Recovered,1,18244.0,127479.0,35,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+47,5503,29,67,False,Recovered,18,9645.0,321838.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+29,8148,40,60,False,Recovered,13,5170.0,354444.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+39,9437,33,69,False,Recovered,17,4660.0,265519.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+20,5303,59,60,False,Recovered,13,9124.0,253950.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+59,21140,109,86,False,Recovered,14,7275.0,303823.0,8,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+36,14786,184,30,True,Deceased,8,17069.0,122191.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+48,16232,148,31,True,Recovered,1,16525.0,136732.0,21,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+64,16090,148,39,True,Recovered,6,13885.0,114337.0,32,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+5,9993,138,31,False,Recovered,14,8779.0,154202.0,54,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+35,18266,198,17,True,Recovered,8,18303.0,145332.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+63,21157,219,131,False,Recovered,17,5099.0,226572.0,77,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+31,6078,22,70,False,Recovered,12,7754.0,180171.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+31,5707,21,57,False,Recovered,16,7155.0,214909.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+39,24630,135,101,False,Recovered,17,5518.0,158767.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+71,15217,134,11,True,Recovered,6,14291.0,104719.0,32,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,15680,50,5,True,Recovered,7,12908.0,114916.0,24,Low Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+47,8413,32,62,False,Recovered,14,6572.0,334200.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+39,24752,150,110,False,Recovered,13,7255.0,271750.0,90,Moderate Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+72,4060,295,139,True,Recovered,5,16145.0,111032.0,75,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+67,15856,198,28,True,Recovered,5,12117.0,141602.0,30,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+54,23550,50,143,True,Recovered,6,19847.0,121402.0,42,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+51,15098,122,27,True,Recovered,5,19114.0,122948.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+75,24729,35,110,False,Recovered,12,5034.0,349419.0,38,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+30,8993,24,70,False,Recovered,16,4205.0,372666.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+24,7555,21,55,False,Recovered,18,8274.0,351703.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+41,9354,59,58,False,Recovered,17,7234.0,199359.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+48,6351,47,54,False,Recovered,13,7110.0,202383.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+61,15023,63,84,False,Recovered,12,9846.0,263626.0,62,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,16742,110,35,True,Recovered,6,18709.0,129770.0,28,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+10,4734,180,14,True,Recovered,1,17886.0,113470.0,8,High Risk,False,False,Child (5-12),True,True,False,False,True,False,False
+43,12501,122,15,True,Recovered,8,15356.0,141758.0,47,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,5015,34,67,False,Recovered,13,9469.0,376256.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+26,7181,51,54,False,Recovered,12,5789.0,219554.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+102,20653,118,108,False,Deceased,15,7641.0,283429.0,19,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+40,5478,23,60,False,Recovered,18,5558.0,286541.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+33,8433,43,50,False,Recovered,12,6282.0,252327.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+35,5059,35,52,False,Recovered,14,5802.0,282104.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,6616,42,54,False,Recovered,18,4654.0,160426.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+47,13124,157,8,True,Recovered,7,17761.0,134678.0,27,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,8636,22,65,False,Recovered,18,9128.0,331558.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+59,12179,188,17,True,Recovered,6,12763.0,122431.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+30,6042,30,62,False,Recovered,17,7885.0,191367.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+47,12068,116,33,True,Recovered,5,19714.0,131766.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+46,6686,43,63,False,Recovered,15,8486.0,184504.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+24,4871,47,68,False,Recovered,15,5362.0,377405.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+19,6285,20,63,False,Deceased,13,6390.0,307200.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+104,22196,55,59,True,Recovered,1,17296.0,121753.0,93,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+21,6709,41,55,False,Recovered,15,9087.0,380210.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+19,23013,294,128,True,Recovered,8,16757.0,117024.0,99,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+50,19274,185,26,True,Recovered,2,17710.0,102473.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+74,19667,110,38,True,Recovered,2,12976.0,145080.0,39,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+78,6854,259,30,False,Recovered,14,7732.0,374344.0,13,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+37,9728,38,65,False,Recovered,16,5177.0,396684.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+79,12997,144,15,True,Recovered,6,17976.0,124219.0,38,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+34,9788,60,55,False,Recovered,18,9937.0,175603.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+53,20110,189,107,True,Recovered,2,19952.0,115438.0,6,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+42,12796,111,25,True,Deceased,7,18011.0,116987.0,49,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+26,5599,46,67,False,Deceased,18,4858.0,211237.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+31,5163,59,52,False,Recovered,16,7292.0,322299.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+46,9275,56,55,False,Recovered,12,6062.0,264311.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+54,9224,138,42,True,Recovered,7,15211.0,106042.0,8,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+103,23369,147,122,False,Recovered,18,9906.0,173622.0,67,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+22,7750,48,58,False,Recovered,12,9845.0,373323.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+20,14672,175,4,True,Recovered,1,14356.0,133413.0,43,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+43,7267,33,56,False,Deceased,13,8398.0,282224.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+51,18242,149,8,True,Recovered,4,13046.0,128877.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+73,14229,183,35,True,Recovered,4,18228.0,145973.0,31,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+66,18492,191,13,True,Recovered,7,19438.0,146941.0,41,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+31,12153,177,27,True,Deceased,5,15419.0,106261.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+23,9342,24,61,False,Recovered,14,4288.0,198214.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+48,9331,32,70,False,Deceased,17,6012.0,229954.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+40,18069,189,34,True,Recovered,6,12250.0,146767.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+58,17417,105,15,True,Recovered,3,15168.0,134753.0,30,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+45,16274,280,97,True,Recovered,8,14391.0,116361.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+20,7938,38,67,False,Recovered,14,4659.0,178325.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+54,18706,180,26,True,Recovered,3,18152.0,126623.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,7368,46,66,False,Recovered,14,4663.0,248990.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+50,7719,45,50,False,Recovered,13,6990.0,284212.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+77,19179,179,36,True,Recovered,1,18785.0,114111.0,43,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+35,8405,26,61,False,Recovered,14,9104.0,170276.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+20,4946,32,69,False,Deceased,15,8592.0,218074.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+75,21852,238,39,True,Recovered,7,14534.0,143054.0,92,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+40,8480,39,66,False,Recovered,15,9075.0,222826.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+51,21735,63,23,False,Recovered,15,7650.0,348193.0,12,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+18,6479,27,51,False,Recovered,18,6406.0,372709.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+33,5366,24,64,False,Recovered,13,7570.0,320732.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+25,4073,59,63,False,Recovered,14,6728.0,282349.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+57,17196,186,10,True,Recovered,5,14006.0,128097.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+45,10125,151,119,True,Recovered,2,14718.0,113686.0,83,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+48,7318,53,68,False,Deceased,12,4773.0,230092.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+41,6782,33,63,False,Recovered,12,7635.0,173825.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+45,15219,114,35,True,Recovered,8,16334.0,133739.0,34,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,8978,37,70,False,Recovered,16,6260.0,398680.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+55,5577,115,122,False,Recovered,15,9905.0,348527.0,16,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+67,18146,146,29,True,Deceased,7,19498.0,137430.0,29,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+42,20701,179,36,True,Recovered,4,15037.0,100773.0,3,High Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+27,17942,243,145,True,Recovered,1,15460.0,125451.0,18,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+24,6755,44,62,False,Recovered,15,8392.0,283970.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+34,7778,51,57,False,Deceased,13,7406.0,394375.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+32,7962,31,70,False,Recovered,16,8918.0,332776.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+57,16975,193,21,True,Recovered,1,16624.0,121417.0,47,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+14,20544,80,61,False,Recovered,14,8439.0,193289.0,81,High Risk,False,False,Adolescent (13-17),True,True,False,False,True,False,False
+37,9014,49,66,False,Recovered,16,6780.0,234235.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+40,24669,42,90,True,Recovered,3,15778.0,137813.0,81,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+47,8184,31,70,False,Recovered,14,5148.0,167846.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+56,17244,120,31,True,Recovered,4,19159.0,128140.0,24,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+24,6218,26,52,False,Recovered,18,7761.0,361049.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+61,5004,81,79,True,Recovered,5,19301.0,134370.0,0,Moderate Risk,True,False,Adult (25-64),False,True,False,False,False,True,False
+32,9317,28,64,False,Recovered,14,4107.0,212596.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+47,4178,26,51,False,Recovered,15,9307.0,365601.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+57,12492,147,39,True,Recovered,2,19531.0,126084.0,42,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+99,4157,122,55,False,Recovered,16,6894.0,383952.0,97,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+49,14595,115,12,True,Recovered,2,17455.0,146144.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+28,5382,25,64,False,Recovered,17,8357.0,156285.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+34,7924,27,58,False,Recovered,17,7060.0,395856.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+37,13748,135,13,True,Recovered,2,12323.0,128037.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+20,5982,54,56,False,Recovered,17,5206.0,157923.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+50,18035,103,34,True,Recovered,4,17909.0,103265.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+19,7417,55,67,False,Recovered,14,7284.0,313432.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+31,7223,43,51,False,Recovered,13,6789.0,260982.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+28,5997,21,50,False,Recovered,18,6526.0,245992.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+25,6012,55,66,False,Recovered,14,9796.0,316101.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+102,18095,283,107,True,Recovered,2,13970.0,108904.0,90,Moderate Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+38,4714,37,50,False,Recovered,17,4167.0,324711.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+45,8835,35,70,False,Recovered,15,8672.0,320755.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+35,4475,30,50,False,Deceased,12,4020.0,231231.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+19,7091,53,50,False,Recovered,18,9910.0,288046.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+58,19489,142,45,True,Deceased,6,16320.0,143162.0,22,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+28,6249,45,67,False,Recovered,15,8450.0,165030.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+29,4734,59,65,False,Recovered,13,9255.0,164555.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+49,12067,110,19,True,Recovered,4,14586.0,112264.0,39,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+11,15280,37,51,True,Recovered,1,12835.0,144668.0,23,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+46,17721,105,2,True,Recovered,3,16544.0,108875.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+66,13055,173,13,True,Recovered,8,14278.0,127952.0,44,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+44,18470,180,29,True,Recovered,3,12324.0,146435.0,36,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+53,14884,187,32,True,Recovered,3,13795.0,126405.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+105,23835,110,103,False,Recovered,18,4813.0,237219.0,92,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+77,14264,117,13,True,Recovered,2,15131.0,144248.0,25,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+39,12308,198,32,True,Recovered,6,15463.0,123978.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+47,7127,56,66,False,Recovered,13,6320.0,160097.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+91,20909,247,54,True,Recovered,8,14365.0,111132.0,74,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+49,6458,25,67,False,Recovered,14,5677.0,264954.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+92,5580,102,107,False,Recovered,15,8594.0,377010.0,0,Low Risk,True,False,Older adult (65+),False,False,True,False,False,False,True
+60,18783,183,7,True,Deceased,8,17393.0,128743.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,19306,155,23,True,Recovered,8,16742.0,108865.0,44,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+38,8135,45,62,False,Recovered,14,4593.0,367770.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+34,6321,41,56,False,Recovered,16,6850.0,389328.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+49,7211,34,58,False,Recovered,15,8566.0,180176.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+72,6306,70,65,True,Recovered,5,13485.0,121247.0,73,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+39,5568,59,55,False,Recovered,12,6949.0,302766.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+43,4167,48,62,False,Recovered,15,7520.0,268255.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+80,16401,176,24,True,Recovered,7,13010.0,148431.0,25,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+50,17535,137,27,True,Recovered,2,14499.0,126979.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+65,13628,111,32,True,Deceased,5,12913.0,102418.0,37,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+27,14944,187,0,False,Recovered,17,9344.0,328855.0,11,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+87,16881,174,104,False,Recovered,16,6320.0,332754.0,75,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+77,17623,109,30,True,Recovered,5,17293.0,145823.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+47,15830,161,23,True,Recovered,1,14979.0,121712.0,30,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+39,12550,171,13,True,Recovered,2,14879.0,114560.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+24,8598,37,59,False,Recovered,15,8278.0,218603.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+14,3223,285,114,True,Recovered,6,16923.0,125114.0,9,High Risk,False,False,Adolescent (13-17),True,False,True,False,True,False,False
+42,16015,173,25,True,Recovered,7,18000.0,112564.0,42,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+33,9988,46,52,False,Recovered,14,7843.0,218979.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+69,15242,167,36,True,Recovered,4,16613.0,148276.0,32,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+23,7090,24,67,False,Recovered,14,7451.0,321940.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+83,7124,222,112,False,Deceased,14,8703.0,188658.0,55,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+20,7044,29,58,False,Recovered,15,6373.0,217637.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+64,9843,188,17,False,Recovered,18,7995.0,275741.0,75,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+63,5093,94,128,False,Recovered,16,5676.0,274632.0,16,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+9,18478,90,123,False,Recovered,18,9453.0,388998.0,38,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+53,11106,119,49,False,Recovered,13,6689.0,285575.0,98,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+108,10887,169,4,True,Recovered,1,16561.0,110370.0,96,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+47,13018,34,72,True,Recovered,4,12070.0,117843.0,51,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+51,22607,188,149,False,Recovered,18,8349.0,375377.0,82,Moderate Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+65,18878,160,15,True,Recovered,6,12668.0,125844.0,32,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+64,19146,215,110,True,Recovered,8,14625.0,123159.0,55,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+50,2902,270,50,False,Recovered,15,9700.0,168552.0,48,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+77,21121,44,62,False,Recovered,15,8660.0,165621.0,41,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+55,13980,146,21,True,Recovered,7,17772.0,122587.0,30,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,6411,59,54,False,Recovered,13,7875.0,209774.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+55,5369,29,149,False,Recovered,12,4052.0,250278.0,41,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+46,12140,115,3,True,Recovered,4,15581.0,125375.0,37,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+25,9518,48,55,False,Recovered,16,4230.0,278641.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+92,7664,189,105,False,Recovered,17,6710.0,278747.0,10,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+31,15594,133,12,True,Recovered,4,13638.0,103249.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+41,6060,22,51,False,Recovered,17,5837.0,207456.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+38,14258,123,16,True,Recovered,2,15215.0,140764.0,30,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,9227,46,62,False,Recovered,17,4235.0,298399.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+65,19635,193,29,True,Deceased,8,13845.0,111296.0,26,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+12,3072,245,121,True,Recovered,8,14022.0,136930.0,96,High Risk,False,False,Child (5-12),True,True,False,False,False,False,True
+75,7610,25,136,True,Recovered,1,18248.0,147628.0,43,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+22,5084,49,58,False,Recovered,16,7134.0,316249.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+11,5717,91,21,True,Recovered,8,13440.0,146878.0,16,Moderate Risk,False,False,Child (5-12),True,True,False,False,False,True,False
+24,12220,144,39,True,Recovered,7,18098.0,129225.0,24,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+34,8656,46,69,False,Recovered,16,7711.0,279419.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+51,5084,114,5,True,Recovered,8,18347.0,110160.0,22,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+70,18700,173,15,True,Deceased,6,17820.0,105702.0,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+60,17182,197,19,True,Recovered,7,18504.0,103112.0,35,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+37,7473,48,56,False,Recovered,14,6933.0,283788.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,7036,58,63,False,Recovered,17,8884.0,340209.0,69,Low Risk,False,True,Adult (25-64),False,False,True,False,False,True,False
+10,18038,74,137,True,Recovered,8,14847.0,119224.0,20,Low Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+33,7902,40,59,False,Recovered,15,5183.0,211608.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+24,9652,58,53,False,Recovered,15,5868.0,259055.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+67,15944,174,14,True,Recovered,1,13421.0,137963.0,29,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+60,16146,151,8,True,Deceased,1,19452.0,114645.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+84,19553,32,90,True,Recovered,6,14306.0,125980.0,36,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+50,16037,69,124,True,Recovered,5,17688.0,123632.0,26,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+52,17132,133,4,True,Recovered,8,18312.0,143673.0,38,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+80,12266,147,36,True,Recovered,1,12912.0,147766.0,21,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+42,9204,31,53,False,Recovered,13,4514.0,153776.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+54,12793,186,24,True,Recovered,1,16276.0,109783.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+13,14435,252,75,True,Recovered,6,19194.0,137795.0,71,High Risk,False,False,Adolescent (13-17),True,True,False,False,False,True,False
+32,12592,125,21,True,Recovered,2,16361.0,127560.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+57,15102,98,116,True,Recovered,5,15846.0,105634.0,6,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,5861,53,53,False,Recovered,17,8135.0,251001.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+40,9119,22,52,False,Recovered,15,7746.0,242383.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+42,12630,137,12,True,Recovered,3,13930.0,148682.0,41,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+110,5578,49,37,False,Recovered,18,8534.0,212216.0,79,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+32,19934,173,8,True,Recovered,3,16617.0,103186.0,48,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+41,7059,50,58,False,Recovered,15,8555.0,156010.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+47,16874,176,1,True,Recovered,5,14023.0,129481.0,49,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+41,4932,37,66,False,Recovered,14,4083.0,281844.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+22,8839,37,55,False,Recovered,14,7301.0,214678.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+70,19079,149,26,True,Deceased,8,17063.0,138429.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+42,19334,214,72,False,Recovered,18,6486.0,253168.0,59,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,18659,178,37,True,Recovered,6,16538.0,131954.0,35,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+71,16775,158,18,True,Recovered,1,14691.0,139224.0,36,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+110,24207,130,59,True,Deceased,8,13621.0,144779.0,67,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+35,7518,57,70,False,Recovered,17,4912.0,280290.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+43,16406,292,33,True,Recovered,7,12297.0,111909.0,72,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+22,5822,227,44,False,Deceased,18,9413.0,355699.0,48,Moderate Risk,False,False,Young adult (18-24),False,False,True,False,False,True,False
+42,19226,212,47,False,Recovered,16,4361.0,196678.0,34,Low Risk,False,True,Adult (25-64),False,False,True,False,True,False,False
+48,9832,44,52,False,Recovered,16,4364.0,293448.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+49,9123,25,53,False,Recovered,16,6645.0,209782.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+74,6944,262,149,True,Recovered,2,14917.0,137583.0,97,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+66,18929,47,31,True,Recovered,7,19016.0,125582.0,98,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+24,14842,175,27,True,Recovered,2,19409.0,137713.0,31,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+79,14814,191,12,True,Recovered,7,18394.0,101244.0,31,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+46,24139,141,5,True,Recovered,3,18353.0,126413.0,35,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+29,5685,40,69,False,Recovered,12,9370.0,229760.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+100,13365,90,135,False,Recovered,12,5962.0,307246.0,56,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+21,13215,195,8,True,Recovered,8,17936.0,149416.0,41,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+62,16773,139,33,True,Recovered,4,12830.0,116323.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+67,13296,159,28,True,Recovered,8,14839.0,146157.0,25,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+43,7134,181,73,True,Recovered,6,18779.0,123736.0,44,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+45,7443,20,53,False,Recovered,17,6463.0,370469.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+23,14613,125,23,True,Recovered,6,14933.0,104869.0,87,Moderate Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+42,17112,184,6,True,Recovered,4,12182.0,105071.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+36,5563,36,66,False,Recovered,14,8344.0,191272.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+43,4597,55,60,False,Recovered,16,9381.0,162297.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+20,19188,168,5,True,Recovered,3,15247.0,125494.0,21,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+37,5035,59,61,False,Recovered,17,9193.0,381805.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+68,18757,107,33,True,Recovered,5,18041.0,125674.0,47,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+44,6570,31,67,False,Recovered,14,9605.0,165268.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+27,17015,122,22,True,Deceased,3,13785.0,138144.0,42,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+40,7660,27,62,False,Recovered,16,4293.0,260940.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+61,14824,145,17,True,Deceased,1,15001.0,109015.0,49,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+7,15544,297,105,True,Recovered,8,15538.0,140544.0,48,Moderate Risk,False,False,Child (5-12),True,False,True,False,True,False,False
+35,16659,102,39,True,Recovered,4,16564.0,129080.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+27,18592,296,47,False,Recovered,14,9384.0,251498.0,17,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+32,7830,58,66,False,Recovered,14,6601.0,163071.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+23,5422,49,52,False,Recovered,15,8437.0,285781.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+31,8456,52,65,False,Recovered,14,5508.0,387529.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+53,12937,131,39,True,Recovered,2,16122.0,144370.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+24,22601,181,131,True,Recovered,5,13856.0,140320.0,16,High Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+78,14661,188,5,True,Recovered,2,18455.0,131702.0,30,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+38,24947,153,47,False,Recovered,15,5936.0,330099.0,94,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+34,8112,52,67,False,Recovered,13,4851.0,372944.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,4002,45,52,False,Recovered,14,9415.0,176348.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+64,13886,129,15,True,Recovered,1,14597.0,120564.0,49,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+45,7380,49,61,False,Recovered,14,9335.0,304201.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+33,9092,60,59,False,Recovered,14,5431.0,291422.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+39,7833,130,125,False,Recovered,14,8788.0,316117.0,81,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+35,23068,87,109,True,Recovered,2,12939.0,112777.0,77,Moderate Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+63,13064,187,30,True,Recovered,6,15439.0,108522.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+27,4633,58,65,False,Recovered,13,9134.0,270424.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+24,16548,135,25,True,Recovered,8,16908.0,115338.0,30,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+51,14211,182,32,True,Recovered,7,19730.0,114307.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,12843,144,4,True,Recovered,2,15112.0,124691.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,12875,129,11,True,Recovered,6,18505.0,148491.0,24,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+29,13519,193,8,True,Recovered,5,14916.0,140992.0,24,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+47,9704,45,58,False,Recovered,15,4126.0,371761.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+71,23466,89,12,False,Recovered,16,7561.0,303251.0,43,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+50,7718,27,58,False,Recovered,12,9030.0,269423.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+37,3572,60,64,False,Recovered,14,5472.0,371764.0,27,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,14793,172,27,True,Recovered,6,15493.0,138647.0,36,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+82,11611,89,97,False,Recovered,13,4911.0,236387.0,40,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+95,23253,234,44,False,Recovered,13,6357.0,297071.0,14,Moderate Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+31,18409,163,24,True,Recovered,8,18899.0,138615.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+79,20178,174,94,False,Recovered,14,9782.0,390956.0,82,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+69,20285,81,66,False,Recovered,14,6294.0,358055.0,41,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+41,7952,37,66,False,Deceased,14,8402.0,334648.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+80,16513,107,6,True,Recovered,8,15700.0,140828.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+37,9610,35,64,False,Recovered,12,6823.0,215219.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+32,8309,46,53,False,Recovered,16,7178.0,234791.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,7889,34,56,False,Recovered,14,9005.0,338015.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+79,18930,174,24,True,Recovered,8,17609.0,120074.0,23,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+48,9550,29,68,False,Recovered,17,5450.0,219527.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+50,5588,49,50,False,Recovered,17,5047.0,297293.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+44,17006,102,7,True,Recovered,5,14095.0,129267.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+32,6333,22,53,False,Recovered,15,6755.0,206801.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+34,12298,173,20,True,Recovered,7,16060.0,116000.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+45,8453,45,55,False,Recovered,15,4384.0,278538.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+49,19815,138,26,True,Recovered,2,15488.0,141648.0,39,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+82,6540,14,128,True,Recovered,8,15629.0,123355.0,38,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+64,15056,132,12,True,Recovered,4,18811.0,105224.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,9011,161,46,False,Recovered,16,5738.0,337746.0,22,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+33,6178,47,50,False,Recovered,17,6311.0,395779.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+47,7951,22,68,False,Recovered,13,5668.0,311078.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+2,17430,51,103,False,Recovered,16,6405.0,376324.0,62,High Risk,False,False,Young Child (1-4),True,True,False,False,False,False,True
+84,11940,184,100,False,Recovered,12,4910.0,273206.0,16,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+67,19039,102,16,True,Recovered,8,15941.0,100480.0,40,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+24,19771,115,1,True,Recovered,3,12155.0,113870.0,23,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+49,13393,112,12,True,Recovered,4,17629.0,104237.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,5652,38,70,False,Recovered,15,4927.0,164536.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+38,5857,51,59,False,Recovered,15,4138.0,153591.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+35,8117,49,50,False,Recovered,14,6532.0,241247.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,9761,56,60,False,Recovered,15,4334.0,369011.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+44,6311,31,62,False,Recovered,15,5397.0,280349.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+0,17128,286,136,False,Recovered,16,6074.0,231295.0,3,Low Risk,False,False,Infant (<1),True,True,False,False,False,False,True
+53,6720,21,36,True,Recovered,1,17682.0,127015.0,94,High Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+30,7854,60,50,False,Recovered,15,6900.0,180946.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+19,4307,55,64,False,Recovered,17,8118.0,239419.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+40,23043,123,10,False,Recovered,12,4246.0,394529.0,88,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,15955,155,6,True,Recovered,2,12171.0,113890.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+25,5325,55,57,False,Deceased,14,6278.0,184225.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+48,15378,135,38,True,Recovered,2,14846.0,133428.0,43,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+49,6703,26,54,False,Recovered,12,4318.0,326563.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+19,7643,44,53,False,Deceased,16,7493.0,374913.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+33,12404,163,24,True,Recovered,6,18203.0,135301.0,29,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+40,13486,295,142,True,Recovered,2,17583.0,104675.0,73,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+56,13734,104,29,True,Recovered,4,19169.0,149483.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+30,14031,131,24,True,Recovered,8,15140.0,139522.0,27,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+61,7924,51,65,False,Recovered,15,4239.0,358745.0,7,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+34,8800,47,55,False,Recovered,15,7906.0,372471.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+57,12499,148,19,True,Recovered,6,18462.0,132111.0,31,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+64,19381,8,138,True,Deceased,3,18561.0,125082.0,77,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+74,12033,160,17,True,Recovered,2,17823.0,140949.0,49,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+83,10538,163,54,False,Recovered,15,8711.0,249305.0,94,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+69,8310,170,38,False,Recovered,13,4395.0,339411.0,13,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+110,6461,186,33,True,Recovered,6,18016.0,121996.0,65,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+38,12416,178,34,True,Recovered,6,14671.0,101392.0,26,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+38,4401,48,145,True,Recovered,2,12331.0,141875.0,95,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+42,6454,42,61,False,Recovered,15,8606.0,211736.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+52,4031,163,140,False,Deceased,14,5404.0,205529.0,15,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+110,22968,163,20,False,Recovered,17,4495.0,303493.0,94,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+33,18469,117,22,True,Recovered,3,12697.0,141272.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+37,13253,108,36,True,Deceased,2,13244.0,132081.0,22,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+109,23626,99,56,False,Recovered,17,4177.0,263544.0,20,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+72,14477,161,37,True,Recovered,1,12775.0,117134.0,37,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+100,24707,287,149,False,Recovered,15,8975.0,371006.0,87,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+31,24826,253,37,True,Recovered,1,14650.0,130736.0,80,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+67,16901,104,8,True,Recovered,7,13496.0,134465.0,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+42,17861,77,133,True,Recovered,4,16534.0,145431.0,24,Moderate Risk,False,True,Adult (25-64),False,False,True,False,False,False,True
+44,8151,53,52,False,Recovered,14,5818.0,264642.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+21,4117,32,65,False,Deceased,13,9865.0,202591.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+23,16300,124,13,True,Recovered,6,13566.0,147327.0,41,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+73,13347,144,13,True,Recovered,6,16111.0,113619.0,41,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+34,15503,178,25,True,Recovered,2,14316.0,139827.0,30,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+49,8531,45,62,False,Recovered,16,5558.0,263302.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+41,13821,28,74,True,Recovered,7,12514.0,146118.0,69,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+45,5904,39,56,False,Recovered,14,4811.0,212145.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+26,5108,33,66,False,Recovered,15,9167.0,327295.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+9,6302,180,98,True,Recovered,8,13400.0,142168.0,13,Low Risk,False,False,Child (5-12),True,True,False,False,False,False,True
+46,13861,151,31,True,Recovered,4,14607.0,127656.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+26,5190,52,50,False,Recovered,13,6565.0,211486.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+43,12974,166,3,True,Recovered,4,13966.0,109695.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+38,6452,46,70,False,Recovered,15,7442.0,389110.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+43,15345,148,29,True,Recovered,8,19946.0,109996.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+6,24175,293,144,True,Recovered,6,15925.0,129062.0,87,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+50,6556,50,56,False,Recovered,14,8645.0,272028.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+23,18409,148,13,True,Recovered,4,17251.0,117161.0,24,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+18,8891,42,52,False,Recovered,17,8980.0,289903.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+81,6663,69,118,False,Recovered,13,4478.0,192814.0,36,Moderate Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+23,7014,31,62,False,Deceased,15,8413.0,327945.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+25,6585,45,66,False,Recovered,16,6073.0,361775.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+22,19014,140,11,True,Recovered,4,14914.0,110305.0,36,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+42,11711,207,100,False,Recovered,14,6791.0,152888.0,95,High Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+79,19610,141,20,True,Recovered,6,17235.0,135800.0,38,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+69,13271,136,30,True,Recovered,8,16580.0,139700.0,45,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+49,6604,41,68,False,Recovered,15,5626.0,248844.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+36,4664,42,51,False,Recovered,15,9447.0,295982.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+45,17730,200,30,True,Deceased,5,14797.0,118647.0,34,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+18,6899,48,66,False,Recovered,15,7177.0,212132.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+104,18379,193,91,False,Recovered,13,5082.0,227593.0,38,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+37,12637,241,87,False,Recovered,14,6185.0,246472.0,66,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+104,9966,281,83,False,Recovered,14,8142.0,392265.0,38,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+90,9519,288,73,False,Recovered,18,5290.0,317423.0,44,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+22,19092,162,25,True,Recovered,7,19770.0,136076.0,38,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+60,15644,158,39,True,Deceased,8,17494.0,140566.0,46,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+70,18197,187,2,True,Recovered,4,16299.0,107457.0,33,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+75,3973,84,136,True,Recovered,5,16976.0,111991.0,59,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+82,8730,90,137,True,Recovered,3,14639.0,139473.0,23,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,8030,23,60,False,Recovered,18,8071.0,234919.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+33,15543,178,33,True,Recovered,8,17499.0,135118.0,49,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+39,18654,191,6,True,Recovered,4,16895.0,103245.0,37,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+41,4673,57,69,False,Recovered,12,8779.0,304541.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+22,7300,39,57,False,Recovered,17,5301.0,226612.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+34,18654,154,17,True,Recovered,8,14586.0,107129.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+37,4589,23,62,False,Recovered,17,8199.0,319135.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+28,5414,40,52,False,Recovered,12,6701.0,213962.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+64,17971,190,18,True,Recovered,7,17227.0,104585.0,22,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+53,12832,152,3,True,Deceased,4,18405.0,104770.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+79,14801,111,15,True,Recovered,2,15267.0,112280.0,23,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+34,19919,121,1,True,Recovered,3,17465.0,105702.0,44,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+33,15639,193,18,True,Recovered,3,19820.0,121662.0,28,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+28,17417,131,19,True,Recovered,2,14713.0,109919.0,45,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+36,18296,182,21,True,Recovered,6,13246.0,128023.0,26,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+48,4653,34,51,False,Recovered,14,9783.0,365949.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+32,7342,27,68,False,Recovered,13,9294.0,256541.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+23,15556,175,13,True,Recovered,8,18580.0,117495.0,34,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+32,6340,50,53,False,Recovered,17,6687.0,285722.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+26,18612,178,25,True,Recovered,8,12505.0,106553.0,38,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+27,9811,49,56,False,Recovered,13,8654.0,238333.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+65,8474,127,26,True,Recovered,8,14368.0,108863.0,57,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+50,13274,131,38,True,Recovered,2,16534.0,125535.0,29,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+70,10176,58,142,True,Recovered,1,12784.0,119785.0,92,Moderate Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+109,16595,89,52,True,Recovered,8,12432.0,146594.0,15,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,7310,41,59,False,Recovered,12,9365.0,213201.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+58,18841,247,65,False,Recovered,15,9323.0,374086.0,50,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+33,15781,196,22,True,Recovered,8,13455.0,125190.0,40,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+42,2148,88,79,False,Recovered,17,9196.0,321845.0,25,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+41,9607,30,65,False,Recovered,18,8481.0,371063.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+66,19487,142,21,True,Recovered,3,13796.0,132890.0,31,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+66,15758,126,37,True,Recovered,6,15770.0,114974.0,47,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+28,8471,28,55,False,Deceased,18,5414.0,312051.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+56,17391,179,19,True,Recovered,5,12936.0,133093.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,6727,28,70,False,Recovered,15,7199.0,180646.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+28,7270,50,69,False,Recovered,13,9967.0,241860.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+44,6634,30,67,False,Recovered,18,4314.0,369236.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+35,7461,23,51,False,Recovered,15,8079.0,251389.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+11,17832,46,79,False,Recovered,16,9417.0,361550.0,90,Moderate Risk,False,False,Child (5-12),True,True,False,False,False,False,True
+85,19325,297,21,True,Recovered,7,14131.0,107273.0,55,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+110,6922,19,131,True,Recovered,8,17731.0,132770.0,89,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+61,4342,35,147,False,Recovered,16,6608.0,322213.0,81,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+78,16004,83,46,True,Recovered,1,16606.0,108241.0,25,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+39,8549,29,67,False,Recovered,18,9762.0,297852.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+27,8632,41,54,False,Recovered,17,6119.0,201074.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+29,13711,196,15,True,Deceased,5,12644.0,109967.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+96,21650,134,148,False,Recovered,15,9929.0,210039.0,46,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+47,4312,47,63,False,Recovered,15,7553.0,390293.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,17864,172,6,True,Recovered,3,13180.0,142977.0,47,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+4,13257,264,13,True,Recovered,1,18584.0,111777.0,56,High Risk,False,False,Young Child (1-4),True,True,False,False,True,False,False
+69,13200,120,36,True,Recovered,4,17144.0,126570.0,45,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+33,2337,259,40,False,Recovered,15,4744.0,271787.0,93,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+68,12108,104,116,False,Recovered,15,8254.0,272289.0,43,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+54,12311,172,14,True,Recovered,8,19901.0,142271.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+23,7926,39,50,False,Recovered,16,4475.0,167078.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+37,6479,38,54,False,Recovered,14,7951.0,353995.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+75,14363,152,37,True,Deceased,8,15978.0,131212.0,35,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+33,16537,93,94,False,Recovered,16,9359.0,306479.0,27,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+41,5181,31,63,False,Recovered,15,9015.0,317388.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+16,18718,141,76,True,Deceased,4,14282.0,132811.0,37,Low Risk,False,False,Adolescent (13-17),True,False,True,False,True,False,False
+109,5398,254,73,True,Recovered,8,13385.0,148888.0,6,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+24,18797,148,2,True,Recovered,6,14267.0,130241.0,28,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+34,6946,27,61,False,Recovered,14,7547.0,154531.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+28,12572,104,19,True,Recovered,4,19036.0,144146.0,25,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,15141,105,24,True,Recovered,8,18412.0,103817.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+71,16913,112,35,True,Recovered,6,17966.0,101751.0,30,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+11,24906,138,20,True,Recovered,7,18206.0,105277.0,96,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,True,False
+46,9833,33,57,False,Recovered,13,6673.0,341288.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+26,17450,170,26,True,Recovered,4,13981.0,125202.0,42,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+40,14372,176,35,True,Recovered,4,12926.0,118332.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+51,19947,116,28,True,Recovered,7,16189.0,133566.0,22,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+32,9597,42,57,False,Recovered,16,5608.0,381978.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+27,23678,184,128,True,Recovered,5,14090.0,112301.0,58,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+56,14572,140,13,True,Recovered,1,12341.0,130285.0,25,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+43,17619,58,64,True,Recovered,2,14692.0,119026.0,34,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+25,18567,154,27,True,Deceased,2,14139.0,149914.0,37,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+65,19857,203,136,True,Recovered,8,16639.0,102947.0,44,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+77,14826,133,4,True,Recovered,6,15862.0,121957.0,27,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+45,7997,23,50,False,Recovered,16,4253.0,207812.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+46,8671,43,58,False,Recovered,14,9877.0,203234.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+45,15869,133,26,True,Deceased,5,14877.0,112503.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,7554,46,60,False,Recovered,12,6909.0,281139.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+27,5290,56,64,False,Deceased,14,9471.0,161746.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+58,18221,165,16,True,Deceased,6,12533.0,127696.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+44,19288,105,25,True,Recovered,2,18316.0,101963.0,47,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+23,16386,115,15,True,Deceased,1,12219.0,118937.0,36,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+30,4951,32,56,False,Recovered,14,5151.0,192536.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+89,21112,214,132,False,Recovered,18,6499.0,199060.0,25,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+20,12523,172,8,True,Recovered,1,17508.0,135138.0,47,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+23,5811,53,66,False,Recovered,12,6401.0,343504.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+37,9446,20,69,False,Deceased,16,9380.0,225440.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+71,11972,122,114,False,Recovered,12,9423.0,178304.0,48,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+42,5335,185,128,False,Recovered,16,4138.0,285538.0,94,Moderate Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+26,6330,52,61,False,Recovered,13,8970.0,346321.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+35,17525,254,24,True,Recovered,8,16295.0,138085.0,59,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+22,5300,43,63,False,Recovered,15,4599.0,392633.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+39,8795,56,52,False,Recovered,17,8323.0,383542.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+82,11822,196,46,True,Deceased,4,18769.0,109714.0,63,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+49,8557,35,64,False,Recovered,18,8152.0,379502.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+110,22836,17,50,False,Recovered,15,5175.0,203717.0,69,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+46,7584,50,64,False,Recovered,15,6499.0,322757.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+96,6117,278,34,True,Recovered,3,16238.0,101672.0,70,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+63,14148,124,13,True,Recovered,5,13533.0,105561.0,42,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+42,17154,102,77,True,Recovered,8,14996.0,127410.0,98,Low Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+22,7180,56,50,False,Recovered,16,8196.0,154643.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+67,12716,175,18,True,Recovered,4,13538.0,149930.0,28,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+53,16130,181,39,True,Recovered,1,16501.0,116183.0,42,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+102,3241,75,48,False,Recovered,14,9049.0,198925.0,0,Moderate Risk,True,False,Older adult (65+),False,False,True,False,True,False,False
+4,12860,136,56,True,Recovered,2,15641.0,118850.0,18,High Risk,False,False,Young Child (1-4),True,True,False,False,True,False,False
+94,12648,220,139,True,Deceased,8,15850.0,102703.0,67,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+24,17038,175,2,True,Recovered,6,17283.0,134834.0,21,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+29,4865,21,55,False,Recovered,14,5327.0,328347.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+36,6757,47,57,False,Recovered,18,6501.0,192059.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,12514,112,16,True,Recovered,8,16472.0,110261.0,99,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,12187,3,42,True,Recovered,6,15263.0,131361.0,36,High Risk,False,True,Adult (25-64),False,False,True,False,True,False,False
+42,12870,79,29,False,Recovered,16,5828.0,304645.0,6,Moderate Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+23,9284,20,67,False,Deceased,15,8977.0,189880.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+47,5470,29,58,False,Recovered,18,5928.0,335130.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+24,19506,77,135,False,Recovered,12,5798.0,202731.0,64,Moderate Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+36,4020,33,70,False,Recovered,14,5574.0,166955.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+101,10168,18,137,False,Recovered,13,5569.0,169072.0,75,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+36,4206,43,70,False,Recovered,18,4329.0,217549.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+20,17658,172,10,True,Recovered,2,14190.0,114284.0,26,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+19,5507,21,65,False,Recovered,14,4662.0,265211.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+27,7492,44,63,False,Recovered,14,9515.0,371770.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+33,16776,165,19,True,Recovered,5,18492.0,129996.0,39,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+45,16894,130,29,True,Recovered,4,17430.0,110759.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+56,18661,123,27,True,Recovered,4,12813.0,113843.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+48,7540,34,52,False,Recovered,16,9098.0,354502.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+61,18429,197,39,True,Recovered,3,16861.0,112179.0,47,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+42,7366,145,124,False,Recovered,13,8124.0,350284.0,89,High Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+68,23419,125,122,False,Recovered,12,6399.0,240497.0,40,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+44,6202,25,69,False,Recovered,16,4204.0,233286.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+29,6044,54,70,False,Recovered,15,4527.0,203483.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+45,15512,195,4,True,Recovered,4,18774.0,144387.0,47,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+33,13452,194,9,True,Recovered,2,18726.0,113053.0,46,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+41,9570,53,68,False,Recovered,13,4013.0,278312.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+68,24075,181,23,True,Recovered,5,19947.0,110121.0,94,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+59,14151,180,17,True,Recovered,8,19235.0,135290.0,33,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+63,17004,145,1,True,Deceased,5,13338.0,148519.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,4223,28,51,False,Recovered,14,6459.0,194652.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+44,8555,48,69,False,Recovered,16,4821.0,332870.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+57,16217,121,44,True,Recovered,6,15442.0,104621.0,85,High Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+23,9873,24,53,False,Recovered,15,8398.0,245738.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+23,16733,174,3,True,Recovered,8,14178.0,110296.0,21,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+73,16075,107,25,True,Recovered,1,15729.0,138782.0,39,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+35,19319,185,3,True,Recovered,5,14626.0,106160.0,46,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+38,5372,37,60,False,Recovered,17,10000.0,201127.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+33,19605,192,23,True,Recovered,5,19266.0,116455.0,40,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+65,15261,252,28,False,Recovered,18,9962.0,291230.0,92,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+38,4553,58,58,False,Recovered,14,5596.0,194860.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+6,14721,146,31,True,Recovered,2,17968.0,142588.0,36,Low Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+28,9944,32,50,False,Deceased,18,6149.0,241155.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,22193,135,2,False,Recovered,14,5077.0,254933.0,97,Low Risk,False,True,Adult (25-64),False,True,False,False,False,False,True
+64,13653,109,21,True,Recovered,6,13980.0,132444.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+36,16387,112,27,True,Recovered,2,19385.0,112096.0,22,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,18482,194,22,True,Recovered,1,12713.0,105421.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+24,8559,36,55,False,Recovered,16,8034.0,321826.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+24,4984,51,61,False,Recovered,16,4348.0,374324.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+19,5014,24,59,False,Recovered,14,9561.0,254481.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+53,13817,135,67,True,Recovered,7,12832.0,107387.0,26,High Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+78,16385,129,27,True,Deceased,6,12435.0,125869.0,44,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+23,19147,163,25,True,Recovered,6,14311.0,104796.0,25,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+45,5315,42,60,False,Recovered,17,6976.0,267862.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+110,3241,182,123,False,Recovered,12,4351.0,380888.0,43,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+42,9145,38,53,False,Recovered,13,7830.0,210618.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+59,13032,115,1,True,Recovered,6,15462.0,121624.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+23,5296,46,58,False,Recovered,15,8668.0,215700.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+56,14654,157,4,True,Deceased,5,19213.0,134501.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+66,16000,192,26,True,Recovered,4,12769.0,118120.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+46,9725,27,50,False,Recovered,15,5244.0,179846.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+33,14539,181,16,True,Recovered,2,13012.0,113430.0,34,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+20,19271,81,132,False,Recovered,15,6622.0,379303.0,64,Moderate Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+3,24376,164,50,True,Recovered,6,12567.0,113293.0,87,Low Risk,False,False,Young Child (1-4),True,True,False,False,True,False,False
+94,21276,227,142,True,Deceased,3,13184.0,100204.0,32,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+7,10781,174,12,True,Recovered,1,17120.0,128922.0,7,Low Risk,False,False,Child (5-12),True,True,False,False,False,False,True
+44,7915,51,70,False,Recovered,15,5595.0,339087.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+24,6332,40,55,False,Recovered,14,7201.0,282703.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+23,8537,34,68,False,Recovered,14,4336.0,242805.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+37,10773,129,95,True,Recovered,6,15089.0,105157.0,58,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+30,2458,206,97,False,Recovered,12,4956.0,232968.0,25,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+38,7996,25,54,False,Recovered,14,9828.0,393453.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+102,5413,134,99,False,Recovered,16,6287.0,157221.0,41,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+60,18983,176,26,True,Deceased,1,18269.0,125867.0,35,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+48,5235,37,60,False,Recovered,15,4235.0,152793.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+52,13419,198,23,True,Recovered,3,17078.0,144998.0,24,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+46,9915,36,56,False,Deceased,13,6593.0,157546.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+35,6391,58,63,False,Recovered,16,4521.0,349579.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+0,23615,40,13,True,Deceased,7,16652.0,101259.0,51,High Risk,False,False,Infant (<1),True,True,False,False,False,False,True
+53,13530,163,35,True,Recovered,7,15169.0,119884.0,33,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+66,18406,190,9,True,Recovered,7,13629.0,112130.0,22,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+102,21728,141,37,False,Recovered,17,8455.0,278909.0,92,High Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+47,19813,142,27,True,Recovered,2,17425.0,130546.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+46,19737,115,15,True,Deceased,3,16646.0,144142.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,13032,180,11,True,Recovered,5,14260.0,133580.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+4,16421,210,132,True,Recovered,2,17994.0,112236.0,28,High Risk,False,False,Young Child (1-4),True,True,False,False,False,False,True
+73,12983,181,10,True,Deceased,7,15889.0,100622.0,27,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+25,9850,60,64,False,Recovered,15,6999.0,211494.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+37,6397,57,59,False,Deceased,16,8892.0,325767.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+73,10255,287,134,False,Recovered,15,5899.0,221566.0,93,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+35,13527,124,30,True,Recovered,2,14354.0,109061.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+20,5649,22,60,False,Recovered,16,8266.0,257610.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+42,17542,184,10,True,Recovered,5,13972.0,148337.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+67,4723,173,67,True,Deceased,5,17172.0,104818.0,57,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+39,8993,42,65,False,Recovered,16,4385.0,235010.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+24,12393,31,127,True,Recovered,8,15535.0,128894.0,84,Moderate Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+22,9396,28,62,False,Recovered,18,4582.0,383093.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+86,21001,228,97,False,Recovered,17,7049.0,271583.0,77,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+61,15632,188,12,True,Recovered,1,15876.0,124644.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+48,20318,162,124,True,Recovered,8,18515.0,105656.0,78,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,13847,119,32,True,Recovered,2,14048.0,141235.0,27,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+43,7732,37,55,False,Recovered,18,6413.0,243146.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+69,17635,151,36,True,Recovered,4,17605.0,102224.0,45,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+26,9443,28,63,False,Deceased,15,7745.0,259032.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+103,18320,266,39,False,Recovered,16,5645.0,178428.0,74,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+49,16906,107,35,True,Recovered,6,13300.0,100509.0,39,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+20,23762,14,147,True,Recovered,7,19805.0,108187.0,62,Moderate Risk,False,False,Young adult (18-24),False,False,True,False,False,True,False
+51,14945,108,33,True,Recovered,8,19584.0,130831.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+8,7067,275,87,False,Recovered,15,8580.0,399110.0,91,High Risk,False,False,Child (5-12),True,False,True,False,True,False,False
+76,18453,199,21,True,Recovered,1,19748.0,142823.0,39,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+50,4398,39,60,False,Recovered,16,9456.0,277738.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+35,6206,41,54,False,Recovered,14,6232.0,270830.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+12,18500,244,114,False,Recovered,17,9543.0,174125.0,6,High Risk,False,False,Child (5-12),True,False,True,False,False,False,True
+43,5491,27,62,False,Recovered,18,4450.0,282459.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+58,14478,175,10,True,Recovered,4,12064.0,118065.0,44,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+67,14774,167,23,True,Recovered,7,15370.0,142373.0,32,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+45,17352,106,16,True,Recovered,4,12648.0,144733.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+25,9358,35,66,False,Recovered,14,8723.0,249937.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+49,9108,39,59,False,Deceased,16,8196.0,152097.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+28,16440,140,38,True,Recovered,3,18617.0,114462.0,44,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+42,6599,25,60,False,Recovered,14,6616.0,208570.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+21,6931,58,55,False,Recovered,12,9781.0,200245.0,5,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+32,8429,59,70,False,Recovered,12,6381.0,280094.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+65,14207,183,35,True,Recovered,7,14735.0,112850.0,45,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+67,8842,49,82,True,Recovered,4,12216.0,118671.0,84,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+49,6987,57,54,False,Recovered,15,6048.0,383765.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+33,8829,43,57,False,Recovered,16,6554.0,223091.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+41,24641,164,90,True,Recovered,5,17708.0,100756.0,16,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+87,22545,51,147,False,Recovered,16,5142.0,318647.0,8,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+66,17952,128,22,True,Recovered,8,19080.0,106574.0,34,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+64,14408,2,123,False,Recovered,16,4558.0,239941.0,95,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+95,12176,190,65,True,Recovered,2,16802.0,123292.0,64,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+24,18174,178,34,True,Recovered,4,13411.0,115492.0,46,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+19,7558,45,69,False,Recovered,15,9630.0,289083.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+40,16967,147,23,True,Recovered,6,12495.0,139494.0,32,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+47,5298,29,57,False,Recovered,14,8672.0,295187.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+23,9730,26,60,False,Recovered,17,9901.0,357707.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+21,8823,33,60,False,Recovered,12,6923.0,200918.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+26,6388,51,66,False,Recovered,16,5694.0,223705.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+1,18054,4,69,False,Recovered,14,6980.0,389921.0,35,High Risk,False,False,Young Child (1-4),True,True,False,False,False,False,True
+6,21679,57,146,True,Recovered,8,18390.0,115216.0,58,Low Risk,False,False,Child (5-12),True,True,False,False,False,True,False
+30,7763,38,51,False,Recovered,16,5619.0,319791.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+22,7681,54,67,False,Recovered,18,5288.0,309731.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+59,18992,135,32,True,Recovered,5,12153.0,141827.0,40,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+30,9175,31,68,False,Recovered,17,9435.0,217766.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+37,9390,42,70,False,Recovered,13,7829.0,344019.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+31,9111,46,50,False,Recovered,16,9058.0,369111.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+62,18799,150,9,True,Recovered,6,14809.0,118362.0,28,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+31,10000,55,50,False,Recovered,13,8007.0,376460.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+27,17711,194,35,True,Recovered,3,17129.0,127850.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+79,16782,188,36,True,Recovered,3,15543.0,105460.0,34,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+46,6593,21,57,False,Recovered,17,6425.0,354664.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+22,7540,40,65,False,Recovered,15,9691.0,343511.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+43,5906,32,62,False,Recovered,12,6582.0,245272.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+33,4426,27,54,False,Recovered,14,8616.0,150925.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+42,7453,47,67,False,Recovered,14,4967.0,173926.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+79,3096,101,75,False,Recovered,14,7068.0,308349.0,95,High Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+63,16959,132,14,True,Deceased,2,17457.0,111306.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+24,7420,37,61,False,Deceased,15,6976.0,383835.0,1,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+44,17580,184,11,True,Recovered,2,13700.0,117980.0,31,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+42,15021,115,9,True,Recovered,3,17208.0,116039.0,44,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+27,18378,147,38,True,Deceased,5,19874.0,136447.0,26,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+106,8320,109,142,False,Recovered,14,8754.0,164149.0,8,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+42,24642,191,121,True,Recovered,2,18981.0,125163.0,33,High Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+38,24341,263,135,False,Recovered,14,5522.0,185668.0,83,Moderate Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+52,16100,11,56,True,Deceased,1,19659.0,143720.0,54,Low Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+57,14379,57,85,True,Recovered,8,16136.0,114895.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+20,5793,30,63,False,Recovered,13,4161.0,250550.0,2,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+58,13324,126,25,True,Recovered,7,14066.0,133934.0,49,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+95,8942,268,83,False,Recovered,16,7147.0,240812.0,98,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+6,12988,50,58,False,Recovered,15,8183.0,361838.0,42,Low Risk,False,False,Child (5-12),True,True,False,False,False,False,True
+105,6086,15,57,False,Recovered,12,5690.0,397703.0,31,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+40,15910,138,34,True,Recovered,1,15092.0,106558.0,31,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+106,11039,269,99,True,Recovered,1,16282.0,113948.0,79,High Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+80,16071,187,110,True,Recovered,2,15520.0,100810.0,45,Low Risk,False,False,Older adult (65+),False,True,False,False,False,True,False
+22,6487,47,54,False,Recovered,18,7537.0,292191.0,5,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+23,13158,106,5,True,Recovered,6,13259.0,130913.0,22,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+50,17036,130,117,True,Recovered,3,15326.0,115176.0,60,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+22,14605,161,28,True,Recovered,2,12537.0,109147.0,28,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+27,7751,241,75,True,Recovered,8,16249.0,107734.0,11,High Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+55,12182,192,37,True,Recovered,1,19353.0,104484.0,36,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+33,18700,173,33,True,Recovered,3,13774.0,143068.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+42,22284,67,67,False,Recovered,13,9455.0,381390.0,78,Low Risk,False,True,Adult (25-64),False,True,False,False,True,False,False
+48,23869,94,27,False,Recovered,16,8630.0,360508.0,67,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,13682,182,35,True,Recovered,2,18414.0,148740.0,27,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+65,15286,151,9,True,Recovered,1,18086.0,137075.0,42,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+30,18459,200,26,True,Deceased,5,17326.0,111111.0,37,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+36,4996,55,60,False,Recovered,13,4201.0,215096.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+63,23616,163,122,True,Deceased,4,17328.0,124512.0,10,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+19,6424,39,59,False,Deceased,14,9160.0,151565.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+40,8991,33,61,False,Recovered,14,8823.0,311190.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+33,6627,59,59,False,Deceased,14,5529.0,196555.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+18,6312,47,51,False,Recovered,16,6615.0,307316.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+36,9259,22,51,False,Recovered,14,9262.0,288698.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+40,15194,115,17,True,Recovered,4,18152.0,127058.0,36,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+95,12747,263,58,False,Recovered,16,9534.0,313917.0,58,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+10,16484,215,142,True,Recovered,8,19532.0,132987.0,45,Moderate Risk,False,False,Child (5-12),True,False,True,False,False,True,False
+48,6850,49,52,False,Recovered,15,9238.0,315974.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+31,8570,26,69,False,Recovered,16,6153.0,299038.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+29,12910,119,7,True,Recovered,5,14567.0,130495.0,28,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+68,17057,107,29,True,Recovered,4,19971.0,107849.0,26,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+18,5316,50,64,False,Recovered,14,9785.0,388492.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+57,15921,128,6,True,Recovered,4,15786.0,114469.0,37,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+38,8337,32,61,False,Recovered,16,4709.0,193136.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+36,4946,47,55,False,Recovered,12,9368.0,178373.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+64,22824,77,31,False,Recovered,14,6472.0,225883.0,43,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+66,14896,121,14,True,Recovered,8,13039.0,135961.0,39,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+28,9978,38,53,False,Recovered,14,7598.0,233867.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+40,6658,39,66,False,Recovered,18,5696.0,179609.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+61,12497,184,8,True,Recovered,4,19576.0,149660.0,45,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+26,18245,131,16,True,Recovered,2,17362.0,142720.0,23,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+55,11537,270,103,True,Recovered,6,15319.0,102809.0,8,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+41,21464,126,84,True,Recovered,2,16655.0,138650.0,97,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+25,4731,56,66,False,Recovered,16,4171.0,182857.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+109,14838,44,83,False,Recovered,15,4249.0,222420.0,9,Low Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+37,9231,59,65,False,Recovered,17,6174.0,321454.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+60,15062,137,4,True,Recovered,8,19855.0,101492.0,22,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+33,7972,31,68,False,Recovered,14,5356.0,374331.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+45,12191,122,20,True,Recovered,6,12530.0,135702.0,21,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+83,4107,98,128,True,Recovered,2,19767.0,134079.0,51,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+43,6519,31,68,False,Recovered,14,7192.0,350790.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+71,8980,146,100,True,Recovered,1,17268.0,137592.0,86,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+42,8093,41,51,False,Recovered,15,5588.0,388272.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+39,4975,43,66,False,Recovered,13,6164.0,206475.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+23,5236,25,53,False,Recovered,14,8597.0,190695.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+20,18566,177,15,True,Deceased,7,17335.0,135448.0,39,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+48,7512,40,70,False,Recovered,14,4562.0,290913.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+40,13070,184,17,True,Recovered,6,16134.0,149572.0,41,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,15510,185,23,True,Deceased,1,15043.0,145054.0,27,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+45,6940,25,54,False,Recovered,15,7455.0,317943.0,3,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+45,19067,199,29,True,Recovered,2,15027.0,140259.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+20,19247,152,21,True,Recovered,1,18128.0,147084.0,44,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+77,17159,115,35,True,Recovered,4,13246.0,130694.0,49,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+68,17084,295,12,False,Recovered,12,4321.0,331136.0,73,Moderate Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+20,8187,44,58,False,Recovered,16,9172.0,207625.0,4,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+108,15012,95,98,False,Recovered,15,4674.0,261600.0,31,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+38,5394,50,52,False,Deceased,16,9732.0,258554.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+28,4678,29,50,False,Recovered,16,5147.0,203191.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+25,20429,64,13,False,Recovered,16,9467.0,351439.0,11,Moderate Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+21,16522,124,28,True,Recovered,8,13885.0,137284.0,29,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+45,13852,173,18,True,Recovered,2,18358.0,129949.0,35,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+47,9002,31,55,False,Recovered,18,9645.0,224055.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+80,15713,283,20,True,Deceased,7,15276.0,148643.0,17,Low Risk,False,False,Older adult (65+),False,True,False,False,False,False,True
+35,8226,29,68,False,Recovered,14,8478.0,341935.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+18,8005,43,59,False,Recovered,16,6380.0,159877.0,1,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+75,14685,162,26,True,Recovered,3,15125.0,128528.0,24,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+93,21184,158,37,True,Deceased,6,17732.0,103106.0,73,High Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+40,15745,159,19,True,Recovered,3,17060.0,119174.0,26,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+20,5682,39,56,False,Recovered,16,5235.0,249298.0,0,Low Risk,True,False,Young adult (18-24),False,True,False,False,False,False,True
+43,19236,167,21,True,Deceased,4,13818.0,128618.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+54,13963,136,3,True,Deceased,8,18815.0,114298.0,49,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+28,13292,170,56,False,Recovered,16,4331.0,153484.0,59,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+58,16131,187,26,True,Recovered,1,17559.0,103168.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+40,6419,41,53,False,Recovered,14,6202.0,159718.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+31,17387,182,13,True,Recovered,2,13214.0,103870.0,47,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+56,14945,136,38,True,Recovered,3,18955.0,139149.0,28,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+47,6088,32,61,False,Recovered,14,8951.0,325133.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+77,7772,21,18,False,Recovered,18,4018.0,282003.0,10,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+43,6515,176,40,False,Recovered,16,8781.0,229375.0,84,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+21,18349,174,9,True,Recovered,3,18679.0,129455.0,23,High Risk,False,False,Young adult (18-24),False,True,False,False,True,False,False
+57,14045,127,1,True,Deceased,8,15551.0,127101.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+49,4096,44,57,False,Recovered,13,6302.0,254079.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+47,16415,110,8,True,Recovered,5,15940.0,117050.0,39,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+110,12787,213,141,False,Recovered,15,4102.0,211445.0,67,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+24,4946,59,69,False,Recovered,16,7611.0,378997.0,0,Low Risk,True,False,Young adult (18-24),False,False,True,False,False,False,True
+48,18149,165,39,True,Recovered,3,12008.0,133597.0,30,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+39,12437,177,28,True,Recovered,4,12842.0,137169.0,34,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+36,5021,51,51,False,Recovered,18,5684.0,185227.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+43,4574,60,65,False,Deceased,12,5919.0,179445.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+29,4564,30,51,False,Recovered,15,5099.0,174678.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+60,16684,175,13,True,Recovered,1,14801.0,120733.0,23,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+21,6431,39,67,False,Recovered,16,6646.0,304923.0,56,Moderate Risk,False,False,Young adult (18-24),False,True,False,False,False,True,False
+42,9426,36,55,False,Recovered,15,4172.0,219031.0,5,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+18,8981,54,62,False,Recovered,15,7759.0,393603.0,3,Low Risk,False,False,Young adult (18-24),False,False,True,False,False,False,True
+31,5614,52,65,False,Recovered,17,4664.0,317117.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+23,14913,107,5,True,Recovered,8,17842.0,113853.0,48,High Risk,False,False,Young adult (18-24),False,False,True,False,True,False,False
+55,13920,125,17,True,Recovered,2,17240.0,125483.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+0,5328,104,44,False,Recovered,15,8991.0,369739.0,5,Moderate Risk,False,False,Infant (<1),True,False,True,False,False,False,True
+43,6396,51,54,False,Recovered,15,6933.0,273012.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+41,18729,148,34,True,Recovered,3,18225.0,102436.0,28,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+26,16409,96,122,True,Recovered,2,14343.0,128412.0,90,Moderate Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+49,15838,196,120,False,Recovered,18,6896.0,288183.0,18,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+12,13055,86,141,True,Deceased,5,19266.0,105774.0,67,Moderate Risk,False,False,Child (5-12),True,False,True,False,True,False,False
+42,5223,32,63,False,Recovered,14,5649.0,223074.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+48,7516,27,66,False,Recovered,14,5265.0,181776.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+26,4331,36,70,False,Recovered,15,6566.0,314887.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+44,5918,50,56,False,Recovered,13,4873.0,363812.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+58,17208,109,39,True,Recovered,4,12013.0,134766.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+9,4773,51,27,False,Recovered,16,9631.0,207782.0,31,Low Risk,False,False,Child (5-12),True,True,False,False,True,False,False
+42,14865,123,146,False,Recovered,18,5493.0,184118.0,37,Low Risk,False,True,Adult (25-64),False,False,True,False,True,False,False
+55,22030,281,130,False,Recovered,15,8606.0,176775.0,38,Moderate Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+39,9704,58,66,False,Recovered,18,7947.0,358027.0,4,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+40,7386,36,60,False,Deceased,14,8727.0,292997.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+27,9580,40,66,False,Recovered,14,6117.0,368815.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+41,4198,45,63,False,Recovered,13,7359.0,203388.0,0,Low Risk,True,False,Adult (25-64),False,True,False,False,False,False,True
+57,16754,256,118,False,Recovered,17,4187.0,381374.0,69,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+29,4947,57,56,False,Recovered,13,6541.0,202053.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+46,4878,30,66,False,Deceased,16,8418.0,282803.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+87,6367,87,109,False,Recovered,12,5311.0,182278.0,89,High Risk,False,False,Older adult (65+),False,True,False,False,True,False,False
+60,14857,174,35,True,Recovered,1,17157.0,123281.0,36,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+28,7960,42,62,False,Recovered,18,6839.0,198462.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+74,4511,25,147,True,Recovered,7,19831.0,102538.0,38,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,False,True
+55,18721,136,29,True,Recovered,6,17609.0,137585.0,33,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+21,5883,26,65,False,Recovered,12,6283.0,182729.0,3,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+34,4326,27,66,False,Recovered,16,6454.0,276627.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+42,12584,74,52,True,Recovered,5,15481.0,142342.0,37,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+27,4692,35,56,False,Recovered,15,9958.0,366013.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+27,7618,23,67,False,Recovered,14,8807.0,261365.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+28,9920,27,55,False,Recovered,18,5615.0,262688.0,1,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+29,7524,50,70,False,Recovered,16,5057.0,228116.0,2,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+47,11565,288,74,True,Recovered,3,12310.0,127093.0,20,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+61,19593,169,23,True,Recovered,5,19756.0,123196.0,48,High Risk,False,False,Adult (25-64),False,True,False,False,True,False,False
+69,12478,99,92,False,Recovered,16,9457.0,386476.0,24,Moderate Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+18,4771,26,65,False,Recovered,16,4067.0,297868.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+42,18430,98,0,True,Recovered,4,13229.0,106644.0,63,High Risk,False,True,Adult (25-64),False,False,True,False,False,True,False
+63,16557,239,130,False,Deceased,16,6197.0,275071.0,29,High Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+32,5402,25,67,False,Recovered,16,5509.0,199231.0,1,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+46,24608,194,72,True,Recovered,4,15939.0,115046.0,76,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+43,4422,48,60,False,Deceased,18,9111.0,337112.0,5,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+34,4138,22,53,False,Recovered,15,6513.0,280379.0,0,Low Risk,True,False,Adult (25-64),False,False,True,False,False,False,True
+44,19137,206,107,False,Recovered,15,4276.0,253676.0,92,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+45,15013,217,18,True,Recovered,1,14622.0,116946.0,44,Low Risk,False,False,Adult (25-64),False,True,False,False,False,True,False
+44,4825,45,57,False,Recovered,14,8383.0,264063.0,2,Low Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+40,20159,220,55,False,Recovered,18,9985.0,217283.0,53,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+24,7145,40,69,False,Recovered,12,7425.0,372164.0,4,Low Risk,False,False,Young adult (18-24),False,True,False,False,False,False,True
+97,21818,118,7,True,Recovered,1,19697.0,145938.0,40,Low Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+79,6847,63,94,True,Recovered,3,18942.0,112239.0,17,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+50,19679,121,26,True,Recovered,3,16758.0,106009.0,38,High Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+96,9938,91,76,True,Recovered,3,14682.0,144857.0,41,Moderate Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+56,4358,3,22,False,Deceased,16,5075.0,268464.0,96,Low Risk,False,False,Adult (25-64),False,False,True,False,True,False,False
+65,12120,187,36,True,Recovered,7,18195.0,113218.0,32,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+29,23224,219,64,False,Recovered,17,6883.0,372147.0,7,Moderate Risk,False,False,Adult (25-64),False,False,True,False,False,False,True
+77,19544,124,27,True,Recovered,6,12482.0,144245.0,31,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+64,13772,163,118,False,Recovered,16,9267.0,183229.0,29,Low Risk,False,False,Adult (25-64),False,False,True,False,False,True,False
+79,17393,117,2,False,Recovered,18,6952.0,291451.0,23,Low Risk,False,False,Older adult (65+),False,False,True,False,False,True,False
+25,8005,23,69,False,Recovered,13,7389.0,275364.0,4,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
+73,13581,161,29,True,Recovered,7,19034.0,102130.0,35,High Risk,False,False,Older adult (65+),False,False,True,False,True,False,False
+35,9168,37,68,False,Recovered,12,8814.0,324555.0,3,Low Risk,False,False,Adult (25-64),False,True,False,False,False,False,True
